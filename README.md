@@ -78,5 +78,3 @@ The full thesis (in Greek, with an English abstract) is included in this reposit
 **Author:** Konstantinos Tavatzian  
 **Email:** konstantinostavatzian@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/konstantinos-tavatzian/
-
-If you are interested in ROS, computer vision, or human-following robots, feel free to reach out!
